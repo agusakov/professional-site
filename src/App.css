@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  text-align: justify;
+  text-justify: none;
+  margin: 30px 30px 30px 30px;
+  font-family: Baskerville;
 }
 
 .App-logo {
@@ -37,8 +40,6 @@
   }
 }
 
-div {
-  text-align: justify;
-  text-justify: none;
-  margin: 30px 25px 75px 25px;
+header {
+  font-weight: bold;
 }
